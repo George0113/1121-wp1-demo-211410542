@@ -1,0 +1,9 @@
+git config --global user.email "a28935617@gmail.com"
+git config --global user.name "George0113"
+
+
+移除  .git 目錄
+$ rm -rf .git
+
+npm i
+npm start
