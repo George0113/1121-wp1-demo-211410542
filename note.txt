@@ -1,4 +1,4 @@
-git config --global user.email "a28935617@gmail.com"
+git config --global user.email "211410542@o365.tku.edu.tw"
 git config --global user.name "George0113"
 
 
@@ -7,6 +7,8 @@ $ rm -rf .git
 
 npm i
 npm start
+npm i -g npm@latest
+
 
 [My Github Repo URL](https://github.com/George0113/1121-wp1-demo-211410542.git)
 
