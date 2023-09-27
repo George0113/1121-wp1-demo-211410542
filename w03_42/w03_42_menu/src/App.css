@@ -1,0 +1,27 @@
+.booklist {
+  width: 90vw;
+  max-width: 1170px;
+  margin: 5rem auto;
+  display: grid;
+  gap: 1.5rem;
+  
+}
+
+.book {
+  background-color: #fff;
+  border-radius: 1rem;
+  padding: 1rem 1rem;
+}
+
+.book img{
+  width: 300px;
+  margin: 0 auto;
+
+}
+
+
+@media screen and (min-width: 768px) {
+  .booklist {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}

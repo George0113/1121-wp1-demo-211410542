@@ -1,10 +1,10 @@
-const menu = [
+const menu_data = [
   {
     id: 1,
     title: 'eggs',
     category: 'breakfast',
     price: 12.59,
-    img: './images/my-1.jpg',
+    img: './theme-menu/images/my-1.jpg',
     remote_img: '',
     desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam dolores ut iusto quas quia dignissimos ullam. Enim voluptas, expedita architecto, cupiditate molestias quisquam error quam blanditiis tempore quo dicta. Ipsa.',
   },
@@ -13,7 +13,7 @@ const menu = [
     title: 'big salad ',
     category: 'lunch',
     price: 12.59,
-    img: './images/my-2.jpg',
+    img: './theme-menu/images/my-2.jpg',
     remote_img: '',
     desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam dolores ut iusto quas quia dignissimos ullam. Enim voluptas, expedita architecto, cupiditate molestias quisquam error quam blanditiis tempore quo dicta. Ipsa.',
   },
@@ -22,7 +22,7 @@ const menu = [
     title: 'fried dish',
     category: 'dinner',
     price: 12.59,
-    img: './images/my-3.jpg',
+    img: './theme-menu/images/my-3.jpg',
     remote_img: '',
     desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam dolores ut iusto quas quia dignissimos ullam. Enim voluptas, expedita architecto, cupiditate molestias quisquam error quam blanditiis tempore quo dicta. Ipsa.',
   },
@@ -31,7 +31,7 @@ const menu = [
     title: 'buttermilk pancakes',
     category: 'breakfast',
     price: 15.59,
-    img: './images/item-1.jpeg',
+    img: './theme-menu/images/item-1.jpeg',
     remote_img: '',
     desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam dolores ut iusto quas quia dignissimos ullam. Enim voluptas, expedita architecto, cupiditate molestias quisquam error quam blanditiis tempore quo dicta. Ipsa.',
   },
@@ -40,7 +40,7 @@ const menu = [
     title: 'dinner double',
     category: 'dessert',
     price: 13.99,
-    img: './images/item-2.jpeg',
+    img: './theme-menu/images/item-2.jpeg',
     remote_img: '',
     desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam dolores ut iusto quas quia dignissimos ullam. Enim voluptas, expedita architecto, cupiditate molestias quisquam error quam blanditiis tempore quo dicta. Ipsa.',
   },
@@ -49,10 +49,10 @@ const menu = [
     title: 'godzilla milkshake',
     category: 'shakes',
     price: 13.99,
-    img: './images/item-3.jpeg',
+    img: './theme-menu/images/item-3.jpeg',
     remote_img: '',
     desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam dolores ut iusto quas quia dignissimos ullam. Enim voluptas, expedita architecto, cupiditate molestias quisquam error quam blanditiis tempore quo dicta. Ipsa.',
   },
 ];
 
-export default menu;
+export default menu_data;
