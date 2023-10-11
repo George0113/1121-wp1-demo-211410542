@@ -5,7 +5,8 @@ git config --global user.name "George0113"
 移除  .git 目錄
 $ rm -rf .git
 
-npm i
+
+
 npm start
 npm i -g npm@latest
 
