@@ -29,3 +29,7 @@ $ git log --pretty=format:"%h%x09%an%x09%ad%x09%s" --after="2023-09-26"
 
 SELECT * FROM public.card_42
 ORDER BY id ASC
+
+DATABASE=SUPABASE
+SUPABASE_HOST=db.spguhxeeusfjlibdhcxj.supabase.co
+SUPABASE_PASSWORD=georgechen0890113
