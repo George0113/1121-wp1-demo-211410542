@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "title": "seven reasons why coffee is awesome",
+      "descrip": "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+      "category": "lifestyle",
+      "img": "./images/photo-1.jpg",
+      "remote_url": ""
+    },
+    {
+      "id": 2,
+      "title": "travel to paris",
+      "descrip": "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+      "category": "lifestyle",
+      "img": "./images/photo-2.jpg",
+      "remote_url": ""
+    },
+    {
+      "id": 3,
+      "title": "seven reasons why coffee is awesome",
+      "descrip": "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+      "category": "lifestyle",
+      "img": "./images/photo-3.jpg",
+      "remote_url": ""
+    },
+    {
+      "id": 4,
+      "title": "seven reasons why coffee is awesome",
+      "descrip": "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+      "category": "lifestyle",
+      "img": "./images/photo-4.jpg",
+      "remote_url": ""
+    },
+    {
+      "id": 5,
+      "title": "seven reasons why coffee is awesome",
+      "descrip": "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+      "category": "lifestyle",
+      "img": "./images/photo-5.jpg",
+      "remote_url": ""
+    },
+    {
+      "id": 6,
+      "title": "travel to paris",
+      "descrip": "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+      "category": "lifestyle",
+      "img": "./images/photo-6.jpg",
+      "remote_url": ""
+    },
+    {
+      "id": 7,
+      "title": "seven reasons why coffee is awesome",
+      "descrip": "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+      "category": "lifestyle",
+      "img": "./images/photo-7.jpg",
+      "remote_url": ""
+    },
+    {
+      "id": 8,
+      "title": "seven reasons why coffee is awesome",
+      "descrip": "sit amet consectetur adipisicing elit.",
+      "category": "lifestyle",
+      "img": "./images/photo-8.jpg",
+      "remote_url": ""
+    },
+    {
+      "id": 9,
+      "title": "seven reasons why coffee is awesome",
+      "descrip": "sit amet consectetur adipisicing elit.",
+      "category": "lifestyle",
+      "img": "./images/photo-9.jpg",
+      "remote_url": ""
+    }
+  ]
